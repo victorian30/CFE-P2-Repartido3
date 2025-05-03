@@ -6,9 +6,9 @@ public class Ejercicio5 {
                 {9, 10, 11, 12},
                 {13, 14, 15, 16}
         };
-        System.out.println("Diagonal principal: ");
+        System.out.print("Diagonal principal: ");
         for (int i = 0; i < 4; i++) {
-            System.out.println(matriz[i][i]);
+            System.out.print(matriz[i][i] + " ");
         }
     }
 }

@@ -4,7 +4,7 @@ public class Ejercicio3 {
     public static void main(String[] args) {
 
 
-        String nombres[] = {"Juan", "María", "Lucas", "Pedro", "Ana"};
+        String[] nombres = {"Juan", "María", "Lucas", "Pedro", "Ana"};
 
         Scanner leer = new Scanner(System.in);
         System.out.println("Ingresa un nombre para buscar: ");
